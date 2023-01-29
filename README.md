@@ -1,5 +1,7 @@
 ### Hi there 👋
-![Логотип](https://github.com/JustCoolDude/CnowlageBase/blob/main/img/image_main.png)
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 ## Analog warmth
 <!--
 **JustCoolDude/JustCoolDude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
