@@ -19,16 +19,16 @@
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
  
-  <a href="https://vk.com/chizhov_net">
+  <!--<a href="https://vk.com/chizhov_net">
     <img src="" alt="Discord"/>
   </a>
   <a href="https://vk.com/chizhov_net">
     <img src="" alt="Discord"/>
-  </a>
+  </a>  -->
   
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
-   <a href="https://vk.com/chizhov_net">
+   <a href="https://stepik.org/users/496641332">
     <img src="https://img.shields.io/badge/website-Stepik-black" alt="Discord"/>
   </a>
 </div>
