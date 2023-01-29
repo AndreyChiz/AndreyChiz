@@ -33,6 +33,9 @@
   </a>
   <h1>Hi there 👋</h1>
 </div>
+  <div id="badges" align="center">
+    <img src="https://media.giphy.com/media/eM57bk1nADRUQ/giphy.gif" alt="AAAAAA"/>
+ </div>   
 
 <!--
 **JustCoolDude/JustCoolDude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
