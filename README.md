@@ -2,7 +2,7 @@
 
 <!--
 **JustCoolDude/JustCoolDude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![Логотип]([/logo.svg](https://github.com/JustCoolDude/CnowlageBase/blob/main/img/image_main.png))
+![Логотип](https://github.com/JustCoolDude/CnowlageBase/blob/main/img/image_main.png)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
