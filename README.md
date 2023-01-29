@@ -6,8 +6,6 @@
   <a href="https://vk.com/chizhov_net">
     <img src="https://img.shields.io/badge/-Vkontakte-003f5c?style=for-the-badge&logo=Vk" alt="LinkedIn Badge"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=flat-square" alt=""/>
-</div>
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=flat-square" alt=""/>
 </div>
