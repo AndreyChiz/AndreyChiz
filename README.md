@@ -8,6 +8,9 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=flat-square" alt=""/>
 </div>
+<div id="badges" align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=flat-square" alt=""/>
+</div>
 
 <!--
 **JustCoolDude/JustCoolDude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
