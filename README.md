@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <div id="header" align="center">
   <img src="https://github.com/JustCoolDude/JustCoolDude/blob/123/img/im2.png" width="100"/>
 </div>
@@ -31,6 +31,7 @@
    <a href="https://stepik.org/users/496641332">
     <img src="https://img.shields.io/badge/website-Stepik-black" alt="Discord"/>
   </a>
+  <h1>Hi there 👋</h1>
 </div>
 
 <!--
