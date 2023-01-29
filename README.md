@@ -9,6 +9,24 @@
   <a href="https://vk.com/chizhov_net">
     <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slak"/>
   </a>
+  <a href="https://vk.com/chizhov_net">
+    <img src="https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white" alt="Skype"/>
+  </a>
+  <a href="https://vk.com/chizhov_net">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
+  </a>
+  <a href="https://vk.com/chizhov_net">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="https://vk.com/chizhov_net">
+    <img src="https://img.shields.io/badge/website-Stepik-black" alt="Discord"/>
+  </a>
+  <a href="https://vk.com/chizhov_net">
+    <img src="" alt="Discord"/>
+  </a>
+  <a href="https://vk.com/chizhov_net">
+    <img src="" alt="Discord"/>
+  </a>
   
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
