@@ -2,8 +2,10 @@
 <div id="header" align="center">
   <img src="https://github.com/JustCoolDude/JustCoolDude/blob/123/img/im2.png" width="100"/>
 </div>
-
-  
+<div id="badges">
+  <a href="https://vk.com/chizhov_net">
+    <img src="https://img.shields.io/badge/-Vkontakte-003f5c?style=for-the-badge&logo=Vk" alt="LinkedIn Badge"/>
+  </a>
 </div>
 
 <!--
