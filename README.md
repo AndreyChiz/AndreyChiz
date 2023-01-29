@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div id="header" align="center">
-  <img src="https://github.com/JustCoolDude/JustCoolDude/blob/123/img/im1.png" width="100"/>
+  <img src="https://github.com/JustCoolDude/JustCoolDude/blob/123/img/im2.png" width="100"/>
 </div>
 ## Analog warmth
 <!--
