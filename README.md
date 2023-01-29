@@ -1,8 +1,8 @@
 ### Hi there 👋
-
+[Логотип](https://github.com/JustCoolDude/CnowlageBase/blob/main/img/image_main.png)
 <!--
 **JustCoolDude/JustCoolDude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![Логотип](https://github.com/JustCoolDude/CnowlageBase/blob/main/img/image_main.png)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
