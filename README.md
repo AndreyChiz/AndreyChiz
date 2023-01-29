@@ -1,5 +1,6 @@
 ### Hi there 👋
 ![Логотип](https://github.com/JustCoolDude/CnowlageBase/blob/main/img/image_main.png)
+Экран мееедленно заполняется столбиками....
 <!--
 **JustCoolDude/JustCoolDude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
