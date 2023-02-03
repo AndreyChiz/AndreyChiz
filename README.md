@@ -34,7 +34,7 @@
   <h1>Hi there 👋</h1>
 </div>
   <div id="badges" align="center">
-    </div>
+    
  </div>   
 
 <!--
