@@ -34,7 +34,7 @@
   <h1>Hi there 👋</h1>
 </div>
   <div id="badges" align="center">
-    
+    <img src="https://media.giphy.com/media/1MHPLtm7vzxpnx91tG/giphy.gif" alt="no"/>
  </div>   
 
 <!--
