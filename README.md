@@ -1,7 +1,4 @@
 
-<div id="header" align="center">
-  <img src="https://github.com/JustCoolDude/JustCoolDude/blob/123/img/im2.png" width="100"/>
-</div>
  <div id="badges" align="center">
     <img src="https://media.giphy.com/media/1MHPLtm7vzxpnx91tG/giphy.gif" alt="no"/>
  </div> 
