@@ -2,6 +2,9 @@
 <div id="header" align="center">
   <img src="https://github.com/JustCoolDude/JustCoolDude/blob/123/img/im2.png" width="100"/>
 </div>
+ <div id="badges" align="center">
+    <img src="https://media.giphy.com/media/1MHPLtm7vzxpnx91tG/giphy.gif" alt="no"/>
+ </div> 
 <div id="badges" align="center">
   <a href="https://vk.com/chizhov_net">
     <img src="https://img.shields.io/badge/-Vkontakte-003f5c?style=for-the-badge&logo=Vk" alt="LinkedIn Badge"/>
@@ -33,9 +36,7 @@
   </a>
   <h1>Hi there 👋</h1>
 </div>
-  <div id="badges" align="center">
-    <img src="https://media.giphy.com/media/1MHPLtm7vzxpnx91tG/giphy.gif" alt="no"/>
- </div>   
+   
 
 <!--
 **JustCoolDude/JustCoolDude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
