@@ -5,17 +5,17 @@
 <div id="badges" align="center">
   <a href="https://vk.com/chizhov_net">
     <img src="https://img.shields.io/badge/-Vkontakte-003f5c?style=for-the-badge&logo=Vk" alt="LinkedIn Badge"/>
-  </a>
+ <!-- </a>
   <a href="https://vk.com/chizhov_net">
     <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slak"/>
   </a>
   <a href="https://vk.com/chizhov_net">
     <img src="https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white" alt="Skype"/>
-  </a>
-  <a href="https://vk.com/chizhov_net">
+  </a>-->
+  <a href="linkedin.com/in/andrey-chiz-435987264">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
   </a>
-  <a href="https://vk.com/chizhov_net">
+  <a href="Andrey C#0677">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
  
