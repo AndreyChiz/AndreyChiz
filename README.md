@@ -1,7 +1,7 @@
 
-  <!--<div id="badges" align="center">
+  <div id="badges" align="center">
     <img src="https://media.giphy.com/media/eM57bk1nADRUQ/giphy.gif" alt="AAAAAA"/>
- </div>   -->
+ </div>   
 <div id="badges" align="center">
   <a href="https://vk.com/chizhov_net">
     <img src="https://img.shields.io/badge/-Vkontakte-003f5c?style=for-the-badge&logo=Vk" alt="LinkedIn Badge"/>
