@@ -12,7 +12,7 @@
   <a href="https://vk.com/chizhov_net">
     <img src="https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white" alt="Skype"/>
   </a>-->
-  <a href="linkedin.com/in/andrey-chiz-435987264">
+  <a href="linkedin.com/in/andrey-chiz-435987264/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
   </a>
   <!--<a href="Andrey C#0677">
