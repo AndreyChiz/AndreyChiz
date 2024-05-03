@@ -17,10 +17,10 @@
   <a href="https://t.me/AndreyCJ">
     <img src="https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=telegram" alt="Telegram Badge"/></a>
     
-  <a href="https://career.habr.com/AndreyChiz">
+  <a href="https://habr.com/ru/users/Achiz">
     <img src="https://img.shields.io/badge/-Habr-25D366?style=for-the-badge&logo=Habr" alt="Habr Badge"/></a>
   
-  <a href="https://stackoverflow.com/users/11391831/andrey-chiz">
+  <a href="https://stackoverflow.com/users/24847300/achiz">
     <img src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow Badge"/></a>
     
   <a href="https://hh.ru/resume/...">
