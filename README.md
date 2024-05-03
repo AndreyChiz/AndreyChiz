@@ -12,6 +12,7 @@
 
   
 </div>
+<img src="https://komarev.com/ghpvc/?username=AndreyChiz&style=flat-square&color=blue" alt=""/>
   <h1>Hi there 👋</h1> 
 
 <!--
