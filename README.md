@@ -7,10 +7,12 @@
 <a href="https://www.linkedin.com/in/andrey-chiz-435987264/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/></a>
 
+<a href="https://t.me/AndreyCJ">
+  <img src="https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=telegram" alt="Telegram Badge"/></a>
 
-  <h1>Hi there 👋</h1>
+  
 </div>
-   
+  <h1>Hi there 👋</h1> 
 
 <!--
 **JustCoolDude/JustCoolDude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
