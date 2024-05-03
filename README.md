@@ -1,11 +1,11 @@
 
 <div id="badges" align="center">
-  <a href="https://vk.com/chizhov_net">
-    <img src="https://img.shields.io/badge/-Vkontakte-003f5c?style=for-the-badge&logo=Vk" alt="LinkedIn Badge"/>
+ 
+<a href="https://vk.com/chizhov_net">
+  <img src="https://img.shields.io/badge/-Vkontakte-003f5c?style=for-the-badge&logo=Vk" alt="LinkedIn Badge"/></a>
 
 <a href="https://www.linkedin.com/in/andrey-chiz-435987264/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
-  </a>
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/></a>
 
 
   <h1>Hi there 👋</h1>
