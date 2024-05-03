@@ -19,6 +19,9 @@
     
   <a href="https://habr.com/ru/users/Achiz">
     <img src="https://img.shields.io/badge/-Habr-25D366?style=for-the-badge&logo=Habr" alt="Habr Badge"/></a>
+
+<a href="https://volgograd.hh.ru/resume/71ee1e06ff0951b1b20039ed1f313072324f68">
+    <img src="https://img.shields.io/badge/-HeadHunter-ff6600?style=for-the-badge&logo=HeadHunter&logoColor=white" alt="HeadHunter Badge"/></a>
   
   <a href="https://stackoverflow.com/users/24847300/achiz">
     <img src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow Badge"/></a>
