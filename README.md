@@ -10,5 +10,8 @@
 
   <a href="https://t.me/AndreyCJ">
     <img src="https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=telegram" alt="Telegram Badge"/></a>
-    <img src="https://komarev.com/ghpvc/?username=AndreyChiz&style=flat-square&color=blue" alt=""/>
+    
+</div>
+<div >
+  <img src="https://komarev.com/ghpvc/?username=AndreyChiz&style=flat-square&color=blue" alt=""/>
 </div>
