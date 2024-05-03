@@ -5,7 +5,12 @@
          width="250" height="200">
 </div>
   
-
+<style>
+  #badges img {
+    width: 10%; 
+    height: auto; 
+  }
+</style>
 <div id="badges" align="center">
   
   <a href="https://vk.com/chizhov_net">
