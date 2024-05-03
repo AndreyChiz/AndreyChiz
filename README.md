@@ -7,12 +7,7 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
   </a>
 
-  
-<div id="badges" align="center">
-<img src="https://komarev.com/ghpvc/?username=AndreyChiz&style=flat-square&color=blue" alt=""/>
-  <a href="https://stepik.org/users/496641332">
-    <img src="https://img.shields.io/badge/website-Stepik-black"/>
-  </a>
+
   <h1>Hi there 👋</h1>
 </div>
    
