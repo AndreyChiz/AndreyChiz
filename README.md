@@ -12,8 +12,10 @@
 
   
 </div>
+
+<div id="ssdss" align="center">
 <img src="https://komarev.com/ghpvc/?username=AndreyChiz&style=flat-square&color=blue" alt=""/>
-  <h1>Hi there 👋</h1> 
+</div>  
 
 <!--
 **JustCoolDude/JustCoolDude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
