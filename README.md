@@ -26,8 +26,7 @@
   <a href="https://stackoverflow.com/users/24847300/achiz">
     <img src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow Badge"/></a>
     
-  <a href="https://hh.ru/resume/...">
-    <img src="https://img.shields.io/badge/-HeadHunter-ff6600?style=for-the-badge&logo=HeadHunter&logoColor=white" alt="HeadHunter Badge"/></a>
+ 
     
 </div>
 <div align="center">
