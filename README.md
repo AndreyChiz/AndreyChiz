@@ -11,7 +11,7 @@
   <a href="https://vk.com/chizhov_net">
     <img src="https://img.shields.io/badge/-Vkontakte-003f5c?style=for-the-badge&logo=Vk" alt="LinkedIn Badge"/></a>
 
-  <a href="https://www.linkedin.com/in/andrey-chiz-435987264/">
+  <a href="https://www.linkedin.com/in/andrey-chizhov-3a9b33252">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/></a>
 
   <a href="https://t.me/AndreyCJ">
