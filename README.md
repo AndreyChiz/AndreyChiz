@@ -1,6 +1,4 @@
 ### Hey! I'm Andrey Chizhov 👋
 
-  
-
-### Don't Worry Be Happy! 
+Don't Worry Be Happy! 
 
