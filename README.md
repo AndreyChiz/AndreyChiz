@@ -12,5 +12,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andreychiz&show_icons=true&locale=en&layout=compact" alt="andreychiz" /></p>
 
-
+[![AndreyChiz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AndreyChiz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
