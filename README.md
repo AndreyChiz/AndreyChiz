@@ -1,6 +1,7 @@
 <div align="center">
-   <h1>Hi there, I'm <a href="https://github.com/AndreyChiz">Andrey Chizhov</a> 
-   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+  <h1>┌─[ Andrey Chizhov @ GitHub ]─[~]</h1>
+  <p>| Hi there! Exploring code, DevOps & AI 🚀</p>
+  <p>└─$</p>
 </div>
 
 
