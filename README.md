@@ -1,8 +1,9 @@
 <div align="center">
-  <h1>┌─[ Andrey Chizhov @ GitHub ]─[~]</h1>
-  <p>| Hi there! Exploring code, DevOps & AI 🚀</p>
-  <p>└─$</p>
+  <h1>💻 <span style="color:#61dafb;">Hi there</span>, I'm 
+  <a href="https://github.com/AndreyChiz">Andrey Chizhov</a> 🖖</h1>
+  <p><code>console.log("Exploring code & AI 🚀")</code></p>
 </div>
+
 
 
 <p align="center">
