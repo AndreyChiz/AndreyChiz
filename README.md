@@ -1,12 +1,7 @@
 <div align="center">
-  <h1>💻 <span style="color:#61dafb;">Hi there</span>, I'm 
-  <a href="https://github.com/AndreyChiz">Andrey Chizhov</a> 🖖</h1>
-  <p><code>console.log("Exploring code & AI 🚀")</code></p>
-</div>
-
-<div align="center">
-   <h1>💻 Hi there, I'm <a href="https://github.com/AndreyChiz">Andrey Chizhov</a> 
-   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+  <h1>💻 Hi there, I'm <a href="https://github.com/AndreyChiz">Andrey Chizhov</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+  <p><code>print("Writing clean code, learning every day, and sharing knowledge 💛🐍")</code></p>
+  <p><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></p>
 </div>
 
 
