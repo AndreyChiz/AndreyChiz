@@ -17,8 +17,11 @@
 ---
 
 ### 📚 Top Languages
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andreychiz&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="andreychiz" />
+</p>
+<p align="right">
+  <img src="https://github-readme-stats.vercel.app/api?username=andreychiz&show_icons=true&theme=tokyonight&hide_title=true" alt="github stats" />
 </p>
 
 ---
