@@ -4,6 +4,11 @@
   <p><code>console.log("Exploring code & AI 🚀")</code></p>
 </div>
 
+<div align="center">
+   <h1>💻 Hi there, I'm <a href="https://github.com/AndreyChiz">Andrey Chizhov</a> 
+   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+</div>
+
 
 
 <p align="center">
