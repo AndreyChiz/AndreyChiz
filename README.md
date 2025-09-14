@@ -11,6 +11,6 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andreychiz&show_icons=true&locale=en&layout=compact" alt="andreychiz" /></p>
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AndreyChiz)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Andrey Chizhov)](https://github.com/anuraghazra/github-readme-stats)
 
 
