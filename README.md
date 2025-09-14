@@ -4,6 +4,14 @@
 
 </div>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.9-blue?style=for-the-badge&logo=python" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Docker-20.10-blue?style=for-the-badge&logo=docker" alt="Docker">
+  <img src="https://img.shields.io/badge/Kubernetes-v1.21-blue?style=for-the-badge&logo=kubernetes" alt="Kubernetes">
+  <img src="https://img.shields.io/badge/PostgreSQL-13.4-blue?style=for-the-badge&logo=postgresql" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/FastAPI-v0.68-blue?style=for-the-badge&logo=fastapi" alt="FastAPI">
+</p>
 
 
 <p align="center">
