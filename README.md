@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Andrey Chizhov</h1>
-<h3 align="center">Fullstack developer</h3>
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Andrey Chizhov!" src="./assets/gh-readme-header.png" /></a></p>
 
 
 
