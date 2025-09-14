@@ -16,26 +16,8 @@
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/docker.svg" alt="docker" style="vertical-align:top; margin:4px">
 </p>
-
-<p align="center">
-  <!-- Docker -->
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/docker.svg" 
-       alt="docker" style="vertical-align:top; margin:4px">
-
-  <!-- Kubernetes -->
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/kubernetes.svg" 
-       alt="kubernetes" style="vertical-align:top; margin:4px">
-
-  <!-- PostgreSQL (Devicon, так как у 8bithemant нет) -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" 
-       alt="postgresql" style="vertical-align:top; margin:4px">
-
-  <!-- FastAPI (Devicon, так как у 8bithemant нет) -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" 
-       alt="fastapi" style="vertical-align:top; margin:4px">
-</p>
-
 
 
 
