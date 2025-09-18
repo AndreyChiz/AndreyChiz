@@ -26,7 +26,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andreychiz&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="andreychiz" />
-  <img src="https://github-readme-stats.vercel.app/api?username=andreychiz&show_icons=true&theme=tokyonight&hide_title=true" alt="github stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=andreychiz&show_icons=true&locale=en&layout=compact&theme=tokyonight&token=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" alt="andreychiz" />
+<img src="https://github-readme-stats.vercel.app/api?username=andreychiz&show_icons=true&theme=tokyonight&hide_title=true&token=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" alt="github stats" />
+
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=andreychiz&theme=react-dark&area=true" alt="activity graph" />
 </p>
