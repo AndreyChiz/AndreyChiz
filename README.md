@@ -33,7 +33,7 @@
 </p>
 <div align="center">
 
-  <a href="https://gitlab.chiz.work.gd" style="text-decoration: none;">
+  <a href="https://gitlab.chiz.work.gd" >
     <h1>
       🚨🚨🚨 CLICK TO OPEN MY GITLAB 🚨🚨🚨<br/>
       👉 https://gitlab.chiz.work.gd 👈
