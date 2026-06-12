@@ -33,14 +33,16 @@
 </p>
 <div align="center">
 
-  <h1>
-    🚀 NOW IN GITLAB 🚀
-  </h1>
+  <a href="https://gitlab.chiz.work.gd" style="text-decoration: none;">
+    <h1>
+      🚨🚨🚨 CLICK TO OPEN MY GITLAB 🚨🚨🚨<br/>
+      👉 https://gitlab.chiz.work.gd 👈
+    </h1>
+  </a>
 
   <p>
-    <a href="https://gitlab.chiz.work.gd" target="_blank">
-      👉 https://gitlab.chiz.work.gd
-    </a>
+    ⚠️ Fully moved to GitLab.<br/>
+    Please click the title above to continue.
   </p>
 
 </div>
