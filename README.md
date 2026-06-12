@@ -31,3 +31,8 @@
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=andreychiz&theme=react-dark&area=true" alt="activity graph" />
 </p>
+<div align="center">
+  <h1>
+  <p><code>NOW IN GITLAB https://gitlab.chiz.work.gd</code></p>
+  </h1>
+</div>
