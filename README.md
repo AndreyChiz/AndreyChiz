@@ -32,7 +32,15 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=andreychiz&theme=react-dark&area=true" alt="activity graph" />
 </p>
 <div align="center">
+
   <h1>
-  <p><code>NOW IN GITLAB https://gitlab.chiz.work.gd</code></p>
+    🚀 NOW IN GITLAB 🚀
   </h1>
+
+  <p>
+    <a href="https://gitlab.chiz.work.gd" target="_blank">
+      👉 https://gitlab.chiz.work.gd
+    </a>
+  </p>
+
 </div>
