@@ -36,7 +36,7 @@
   <a href="https://gitlab.chiz.work.gd" >
     <h1>
       🚨🚨🚨 CLICK TO OPEN MY GITLAB 🚨🚨🚨<br/>
-      👉 https://gitlab.chiz.work.gd/home-lab 👈
+      👉 https://gitlab.chiz.work.gd/achi 👈
     </h1>
   </a>
 
